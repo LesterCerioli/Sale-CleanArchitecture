@@ -1,6 +1,6 @@
 # Sale-CleanArchitecture
 
-# Sale-Angular-NET Core
+
 
 
 As the SOLID principles and the Clean Architecture rules are worth to write about it, I am starting this blogging series explaining the decisions we have made through the development of the Manga Project. Feedback are welcome! Clean Architecture expects at least 4 layers and in each layer there are common components. Starting with the layers from inside to the outer ones:
