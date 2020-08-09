@@ -1,6 +1,6 @@
 namespace CleanArchitecture.Core.Entities
 {
-    public class ProductgroupEntity
+    public class ProductGroupEntity
     {
         
     }
