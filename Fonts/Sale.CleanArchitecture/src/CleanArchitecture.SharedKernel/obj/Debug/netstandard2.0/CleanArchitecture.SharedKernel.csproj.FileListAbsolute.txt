@@ -1,0 +1,9 @@
+C:\Users\lester_profarma\source\repos\GitHub\Sale-CleanArchitecture\Fonts\Sale.CleanArchitecture\src\CleanArchitecture.SharedKernel\bin\Debug\netstandard2.0\CleanArchitecture.SharedKernel.deps.json
+C:\Users\lester_profarma\source\repos\GitHub\Sale-CleanArchitecture\Fonts\Sale.CleanArchitecture\src\CleanArchitecture.SharedKernel\bin\Debug\netstandard2.0\CleanArchitecture.SharedKernel.dll
+C:\Users\lester_profarma\source\repos\GitHub\Sale-CleanArchitecture\Fonts\Sale.CleanArchitecture\src\CleanArchitecture.SharedKernel\bin\Debug\netstandard2.0\CleanArchitecture.SharedKernel.pdb
+C:\Users\lester_profarma\source\repos\GitHub\Sale-CleanArchitecture\Fonts\Sale.CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\netstandard2.0\CleanArchitecture.SharedKernel.csprojAssemblyReference.cache
+C:\Users\lester_profarma\source\repos\GitHub\Sale-CleanArchitecture\Fonts\Sale.CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\netstandard2.0\CleanArchitecture.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\lester_profarma\source\repos\GitHub\Sale-CleanArchitecture\Fonts\Sale.CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\netstandard2.0\CleanArchitecture.SharedKernel.AssemblyInfo.cs
+C:\Users\lester_profarma\source\repos\GitHub\Sale-CleanArchitecture\Fonts\Sale.CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\netstandard2.0\CleanArchitecture.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\lester_profarma\source\repos\GitHub\Sale-CleanArchitecture\Fonts\Sale.CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\netstandard2.0\CleanArchitecture.SharedKernel.dll
+C:\Users\lester_profarma\source\repos\GitHub\Sale-CleanArchitecture\Fonts\Sale.CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\netstandard2.0\CleanArchitecture.SharedKernel.pdb

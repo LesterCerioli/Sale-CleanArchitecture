@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
+      "projectUniqueName": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
       "projectName": "CleanArchitecture.SharedKernel",
-      "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
+      "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
       "packagesPath": "C:\\Users\\lester_profarma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\obj\\",
+      "outputPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

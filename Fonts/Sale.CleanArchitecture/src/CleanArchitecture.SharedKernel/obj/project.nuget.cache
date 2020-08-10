@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6hmaIoVcf1v3Iq7GYqPZ7sIHeUmbm9A9aaorNTiFfd8RJLBIGUoQaSQeGmlhGcrY1p8tAZQAteEA4xtwaN0bgw==",
+  "dgSpecHash": "ZG2FFpo43vNpVXYkWTQFeM7tBF6f/vge1tX2ErtvobCY/d+wAj+ILYm8WPdDe/CZKid8n8lO4rbqmI/ZMOtgsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
+  "projectFilePath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lester_profarma\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\lester_profarma\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -11,11 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("CleanArchitecture.Infrastructure", "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.Cl" +
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("CleanArchitecture.Infrastructure", "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.Cl" +
     "eanArchitecture\\src\\CleanArchitecture.Infrastructure", "CleanArchitecture.Infrastructure.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("CleanArchitecture.UnitTests", "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.Cl" +
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("CleanArchitecture.UnitTests", "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.Cl" +
     "eanArchitecture\\tests\\CleanArchitecture.UnitTests", "CleanArchitecture.UnitTests.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("CleanArchitecture.Web", "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.Cl" +
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("CleanArchitecture.Web", "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.Cl" +
     "eanArchitecture\\src\\CleanArchitecture.Web", "CleanArchitecture.Web.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchitecture.FunctionalTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]

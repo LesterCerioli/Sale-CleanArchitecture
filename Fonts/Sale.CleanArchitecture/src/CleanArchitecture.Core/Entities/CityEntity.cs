@@ -1,6 +1,8 @@
-﻿using CleanArchitecture.Core.Events;
+﻿
 using CleanArchitecture.Core.Interfaces;
 using CleanArchitecture.SharedKernel;
+using NetDevPack.Domain;
+using System;
 
 namespace CleanArchitecture.Core.Entities
 {
@@ -11,11 +13,8 @@ namespace CleanArchitecture.Core.Entities
             Id = id;
             Name = name;
         }
+        protected CityEntity() { }
 
-        public CityEntity() {}
-
-        public string Name {get; set;}
-
-
+        public string Name { get; set; }
     }
 }

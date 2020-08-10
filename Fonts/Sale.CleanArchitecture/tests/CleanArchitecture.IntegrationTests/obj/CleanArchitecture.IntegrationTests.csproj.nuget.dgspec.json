@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj": {}
+    "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj": {
+    "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
+        "projectUniqueName": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
         "projectName": "CleanArchitecture.Core",
-        "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
+        "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
         "packagesPath": "C:\\Users\\lester_profarma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Core\\obj\\",
+        "outputPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj": {
-                "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj"
+              "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj"
               }
             }
           }
@@ -49,6 +49,14 @@
             "Ardalis.GuardClauses": {
               "target": "Package",
               "version": "[1.4.2, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.1.1, )"
+            },
+            "NetDevPack": {
+              "target": "Package",
+              "version": "[1.1.0, )"
             }
           },
           "imports": [
@@ -70,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
+    "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
         "projectName": "CleanArchitecture.Infrastructure",
-        "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\lester_profarma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -97,11 +105,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj": {
-                "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj"
+              "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj": {
+                "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj"
               },
-              "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj": {
-                "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj"
+              "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj"
               }
             }
           }
@@ -174,14 +182,14 @@
         }
       }
     },
-    "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj": {
+    "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
+        "projectUniqueName": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
         "projectName": "CleanArchitecture.SharedKernel",
-        "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
+        "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
         "packagesPath": "C:\\Users\\lester_profarma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\obj\\",
+        "outputPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -233,14 +241,14 @@
         }
       }
     },
-    "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Web\\CleanArchitecture.Web.csproj": {
+    "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Web\\CleanArchitecture.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Web\\CleanArchitecture.Web.csproj",
+        "projectUniqueName": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Web\\CleanArchitecture.Web.csproj",
         "projectName": "CleanArchitecture.Web",
-        "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Web\\CleanArchitecture.Web.csproj",
+        "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Web\\CleanArchitecture.Web.csproj",
         "packagesPath": "C:\\Users\\lester_profarma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Web\\obj\\",
+        "outputPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -260,8 +268,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj"
+              "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj"
               }
             }
           }
@@ -342,14 +350,14 @@
         }
       }
     },
-    "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj": {
+    "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj",
+        "projectUniqueName": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj",
         "projectName": "CleanArchitecture.IntegrationTests",
-        "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj",
+        "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj",
         "packagesPath": "C:\\Users\\lester_profarma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.IntegrationTests\\obj\\",
+        "outputPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.IntegrationTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -369,8 +377,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.UnitTests\\CleanArchitecture.UnitTests.csproj": {
-                "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.UnitTests\\CleanArchitecture.UnitTests.csproj"
+              "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.UnitTests\\CleanArchitecture.UnitTests.csproj": {
+                "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.UnitTests\\CleanArchitecture.UnitTests.csproj"
               }
             }
           }
@@ -441,14 +449,14 @@
         }
       }
     },
-    "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.UnitTests\\CleanArchitecture.UnitTests.csproj": {
+    "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.UnitTests\\CleanArchitecture.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.UnitTests\\CleanArchitecture.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.UnitTests\\CleanArchitecture.UnitTests.csproj",
         "projectName": "CleanArchitecture.UnitTests",
-        "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.UnitTests\\CleanArchitecture.UnitTests.csproj",
+        "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.UnitTests\\CleanArchitecture.UnitTests.csproj",
         "packagesPath": "C:\\Users\\lester_profarma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\tests\\CleanArchitecture.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -468,8 +476,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Web\\CleanArchitecture.Web.csproj": {
-                "projectPath": "C:\\Users\\lester_profarma\\Source\\Repos\\Azure\\Sale-Clean Architecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Web\\CleanArchitecture.Web.csproj"
+              "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Web\\CleanArchitecture.Web.csproj": {
+                "projectPath": "C:\\Users\\lester_profarma\\source\\repos\\GitHub\\Sale-CleanArchitecture\\Fonts\\Sale.CleanArchitecture\\src\\CleanArchitecture.Web\\CleanArchitecture.Web.csproj"
               }
             }
           }
